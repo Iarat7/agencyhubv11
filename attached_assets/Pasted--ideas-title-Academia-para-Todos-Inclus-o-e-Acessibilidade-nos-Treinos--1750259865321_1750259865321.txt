@@ -1,0 +1,74 @@
+{
+  "ideas": [
+    {
+      "title": "Academia para Todos: Inclusão e Acessibilidade nos Treinos",
+      "description": "Explore como academias no Brasil estão se tornando mais acessíveis para pessoas com deficiências, promovendo inclusão social.",
+      "content_type": "video",
+      "target_audience": "Pessoas com deficiências, profissionais de educação física",
+      "call_to_action": "Assista ao vídeo para descobrir como sua academia pode ser mais inclusiva."
+    },
+    {
+      "title": "Top 5 Apps para Potencializar seus Treinos em Casa",
+      "description": "Uma análise dos aplicativos de treino mais populares no Brasil que ajudam a manter a rotina de exercícios em casa.",
+      "content_type": "blog post",
+      "target_audience": "Pessoas interessadas em treinar em casa",
+      "call_to_action": "Leia o blog e baixe o app que melhor se adequa ao seu estilo de vida."
+    },
+    {
+      "title": "Desafios Fitness: Transformação em 30 Dias",
+      "description": "Lance um desafio de 30 dias com vídeos diários de exercícios e dicas nutricionais para motivar os seguidores.",
+      "content_type": "social media challenge",
+      "target_audience": "Jovens adultos e entusiastas de fitness",
+      "call_to_action": "Participe do desafio e compartilhe suas conquistas usando #DesafioPoddium."
+    },
+    {
+      "title": "Dicas de Nutrição: O que Comer Antes e Depois do Treino",
+      "description": "Infográfico com dicas nutricionais para maximizar os resultados dos treinos, baseado em alimentos típicos brasileiros.",
+      "content_type": "infographic",
+      "target_audience": "Pessoas que frequentam academias e buscam otimizar a dieta",
+      "call_to_action": "Baixe o infográfico e ajuste seu plano alimentar."
+    },
+    {
+      "title": "Histórias de Sucesso: Superação e Dedicação",
+      "description": "Série de entrevistas com pessoas que transformaram suas vidas através da academia, destacando histórias inspiradoras.",
+      "content_type": "video series",
+      "target_audience": "Pessoas buscando motivação para começar ou continuar seus treinos",
+      "call_to_action": "Assista as histórias e compartilhe a sua utilizando #MinhaHistóriaPoddium."
+    },
+    {
+      "title": "O Poder da Música: Playlists para Energizar seu Treino",
+      "description": "Playlist colaborativa no Spotify com músicas brasileiras vibrantes para animar os treinos.",
+      "content_type": "playlist",
+      "target_audience": "Frequentadores de academia que amam música",
+      "call_to_action": "Siga nossa playlist e adicione suas músicas favoritas!"
+    },
+    {
+      "title": "Guia Completo de Equipamentos: Do Básico ao Avançado",
+      "description": "Um guia visual que detalha diferentes equipamentos de academia e seus usos para iniciantes e avançados.",
+      "content_type": "infographic",
+      "target_audience": "Novos frequentadores de academias e entusiastas de fitness",
+      "call_to_action": "Baixe o guia e equipe-se corretamente para seu treino."
+    },
+    {
+      "title": "Treino e Sustentabilidade: Academias Eco-friendly no Brasil",
+      "description": "Artigo explorando iniciativas sustentáveis praticadas por academias brasileiras para reduzir o impacto ambiental.",
+      "content_type": "blog post",
+      "target_audience": "Frequentadores de academia preocupados com o meio ambiente",
+      "call_to_action": "Leia o artigo e descubra como você pode contribuir para um treino mais verde."
+    },
+    {
+      "title": "Live no Instagram: Tire suas Dúvidas com Especialistas",
+      "description": "Sessões ao vivo com especialistas em fitness e nutrição respondendo perguntas e dando dicas práticas.",
+      "content_type": "live video",
+      "target_audience": "Pessoas com dúvidas sobre fitness e nutrição",
+      "call_to_action": "Participe da live e envie suas perguntas ao vivo!"
+    },
+    {
+      "title": "Horóscopo Fitness: Treinos Personalizados para Cada Signo",
+      "description": "Postagens semanais com dicas de treino específicas para cada signo do zodíaco, combinando entretenimento e fitness.",
+      "content_type": "social media post series",
+      "target_audience": "Amantes de astrologia e praticantes de academia",
+      "call_to_action": "Descubra o treino ideal para o seu signo e compartilhe com amigos."
+    }
+  ]
+}
